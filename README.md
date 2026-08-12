@@ -12,4 +12,4 @@ Static portfolio website prepared for GitHub Pages.
 
 The site will be available at `https://nehatyagi-chem.github.io/`.
 
-You may also add a CV and profile photograph later without changing the site structure.
+Before publishing, replace general publication links and the academic-profile link with your preferred exact URLs. You may also add a CV and profile photograph later without changing the site structure.
